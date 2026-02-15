@@ -1,4 +1,4 @@
-# 🎓 University Management System – Backend (.NET Core 8, Clean Architecture)
+# 🎓 University Management System – Backend (.NET Core 9, Clean Architecture)
 
 The University Management System is a lightweight backend solution designed to manage core academic data within a university environment.
 The project is built entirely with C# .NET Core 8 and structured using Clean Architecture, ensuring scalability, maintainability, and a clear separation of concerns.
